@@ -6,4 +6,4 @@ We use MS-COCO to train/test our scheme. Please make sure to modify the dataset 
 
 To train the networks from scratch, please run "bash ./run_rumor.sh". RTX 3090 is able to hold batch size 16.
 
-This paper is current under review. Feel free to contact shinydotcom@163.com if you encounter any problem. Thanks.
+This paper has been accepted by ICIP 2022. Feel free to contact shinydotcom@163.com if you encounter any problem. Thanks.
